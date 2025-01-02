@@ -18,4 +18,6 @@ h1{
 .span2{
     text-decoration: underline;
 }
-
+button:hover{
+    background-color: blue;
+}
