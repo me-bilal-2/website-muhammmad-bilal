@@ -1,0 +1,21 @@
+button{
+    width: 280px;
+    background-color: rebeccapurple;
+    color: white;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+h1{
+    color: white;
+    background-color: rebeccapurple;
+}
+.span1{
+    text-decoration: line-through;
+
+}
+.span2{
+    text-decoration: underline;
+}
+
